@@ -37,3 +37,15 @@ Date: 0224
 Category: Array
 Difficulty: Medium
 Note:
+
+- use index variable as a pointer
+
+##[Spiral Matrix II](https://leetcode.cn/problems/spiral-matrix-ii/)
+
+Date: 0225
+Category: Array
+Difficulty: Medium
+Note:
+
+- divide into loops
+- first block in the loop is true and the last block in the loop is false
