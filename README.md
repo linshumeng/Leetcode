@@ -42,10 +42,19 @@ Note:
 
 ##[Spiral Matrix II](https://leetcode.cn/problems/spiral-matrix-ii/)
 
-Date: 0225
+Date: 0226
 Category: Array
 Difficulty: Medium
 Note:
 
 - divide into loops
 - first block in the loop is true and the last block in the loop is false
+
+##[Remove Linked List Elements](https://leetcode.cn/problems/remove-linked-list-elements/)
+
+Date: 0227
+Category: Linked List
+Difficulty: Easy
+Note:
+
+- dummy head
