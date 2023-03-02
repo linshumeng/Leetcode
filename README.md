@@ -50,7 +50,7 @@ Note:
 - divide into loops
 - first block in the loop is true and the last block in the loop is false
 
-##[Remove Linked List Elements](https://leetcode.cn/problems/remove-linked-list-elements/)
+## [Remove Linked List Elements](https://leetcode.cn/problems/remove-linked-list-elements/)
 
 Date: 0227
 Category: Linked List
@@ -58,3 +58,13 @@ Difficulty: Easy
 Note:
 
 - dummy head
+
+## [Design Linked List](https://leetcode.cn/problems/design-linked-list/)
+
+Date: 0301
+Category: Linked List
+Difficulty: Medium
+Note:
+
+- a class for node
+- in add, can add the index >= size, but in delete, index < size
