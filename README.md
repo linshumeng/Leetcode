@@ -68,3 +68,13 @@ Note:
 
 - a class for node
 - in add, can add the index >= size, but in delete, index < size
+
+## [Reverse Linked List](https://leetcode.cn/problems/reverse-linked-list/)
+
+Date: 0302
+Category: Linked List
+Difficulty: Easy
+Note:
+
+- a class for node
+- in add, can add the index >= size, but in delete, index < size
