@@ -76,5 +76,13 @@ Category: Linked List
 Difficulty: Easy
 Note:
 
-- a class for node
-- in add, can add the index >= size, but in delete, index < size
+- store the next first and then process
+
+## [Swap Nodes in Pairs](https://leetcode.cn/problems/swap-nodes-in-pairs/)
+
+Date: 0303
+Category: Linked List
+Difficulty: Medium
+Note:
+
+- [猿来绘（逻辑清晰，简单易懂）- 24. 两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs/solution/yuan-lai-hui-luo-ji-qing-xi-jian-dan-yi-8t93h/)
