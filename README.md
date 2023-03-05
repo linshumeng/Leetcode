@@ -86,3 +86,13 @@ Difficulty: Medium
 Note:
 
 - [猿来绘（逻辑清晰，简单易懂）- 24. 两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs/solution/yuan-lai-hui-luo-ji-qing-xi-jian-dan-yi-8t93h/)
+
+## [Remove Nth Node From End of List](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/)
+
+Date: 0304
+Category: Linked List
+Difficulty: Medium
+Note:
+
+- bf: get the toal length of the array, and use a for loop which stops at the exact position
+- two pointers: fast runs firstly and then slow runs
