@@ -68,6 +68,7 @@ Note:
 
 - a class for node
 - in add, can add the index >= size, but in delete, index < size
+- for single direction linked list, firstly connect the node behind and then connce the node in the front
 
 ## [Reverse Linked List](https://leetcode.cn/problems/reverse-linked-list/)
 
