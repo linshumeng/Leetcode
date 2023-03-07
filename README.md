@@ -97,3 +97,12 @@ Note:
 
 - bf: get the toal length of the array, and use a for loop which stops at the exact position
 - two pointers: fast runs firstly and then slow runs
+
+## [Intersection of Two Linked Lists LCCI](https://leetcode.cn/problems/intersection-of-two-linked-lists-lcci/)
+
+Date: 0304
+Category: Linked List
+Difficulty: Easy
+Note:
+
+- align at the end of the lists
