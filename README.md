@@ -100,7 +100,7 @@ Note:
 
 ## [Intersection of Two Linked Lists LCCI](https://leetcode.cn/problems/intersection-of-two-linked-lists-lcci/)
 
-Date: 0304
+Date: 0306
 Category: Linked List
 Difficulty: Easy
 Note:
@@ -109,9 +109,20 @@ Note:
 
 ## [Linked List Cycle II](https://leetcode.cn/problems/linked-list-cycle-ii/)
 
-Date: 0304
+Date: 0307
 Category: Linked List
 Difficulty: Medium
+Note:
+
+- two pointers
+- x = y means that one pointer run from head and one from the meeting point, if they run at the same speed, they will meet at the crossing point
+- judge fast and fast.next exist
+
+## [Valid Anagram](https://leetcode.cn/problems/valid-anagram/)
+
+Date: 0308
+Category: Linked List
+Difficulty: Easy
 Note:
 
 - two pointers
