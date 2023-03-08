@@ -106,3 +106,14 @@ Difficulty: Easy
 Note:
 
 - align at the end of the lists
+
+## [Linked List Cycle II](https://leetcode.cn/problems/linked-list-cycle-ii/)
+
+Date: 0304
+Category: Linked List
+Difficulty: Medium
+Note:
+
+- two pointers
+- x = y means that one pointer run from head and one from the meeting point, if they run at the same speed, they will meet at the crossing point
+- judge fast and fast.next exist
