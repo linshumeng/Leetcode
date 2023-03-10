@@ -137,3 +137,13 @@ Difficulty: Easy
 Note:
 
 - return a list
+
+## [Happy Number](https://leetcode.cn/problems/happy-number/)
+
+Date: 0310
+Category: Hash Table
+Difficulty: Easy
+Note:
+
+- define a function to calculate sum
+- create a set to store the sum, if the sum appears again, then return False
