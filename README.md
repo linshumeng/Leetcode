@@ -121,10 +121,19 @@ Note:
 ## [Valid Anagram](https://leetcode.cn/problems/valid-anagram/)
 
 Date: 0308
-Category: Linked List
+Category: Hash Table
 Difficulty: Easy
 Note:
 
 - two pointers
 - x = y means that one pointer run from head and one from the meeting point, if they run at the same speed, they will meet at the crossing point
 - judge fast and fast.next exist
+
+## [Intersection of Two Arrays](https://leetcode.cn/problems/intersection-of-two-arrays/)
+
+Date: 0309
+Category: Hash Table
+Difficulty: Easy
+Note:
+
+- return a list
