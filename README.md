@@ -106,6 +106,7 @@ Difficulty: Easy
 Note:
 
 - align at the end of the lists
+- make sure one linked list is always longer than the other
 
 ## [Linked List Cycle II](https://leetcode.cn/problems/linked-list-cycle-ii/)
 
@@ -125,9 +126,7 @@ Category: Hash Table
 Difficulty: Easy
 Note:
 
-- two pointers
-- x = y means that one pointer run from head and one from the meeting point, if they run at the same speed, they will meet at the crossing point
-- judge fast and fast.next exist
+- store in different dictionaries
 
 ## [Intersection of Two Arrays](https://leetcode.cn/problems/intersection-of-two-arrays/)
 
