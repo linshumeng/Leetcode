@@ -146,3 +146,12 @@ Note:
 
 - define a function to calculate sum
 - create a set to store the sum, if the sum appears again, then return False
+
+## [Two Sum](https://leetcode.cn/problems/two-sum/)
+
+Date: 0313
+Category: Hash Table
+Difficulty: Easy
+Note:
+
+- judge whether the residual is in the dictionary
