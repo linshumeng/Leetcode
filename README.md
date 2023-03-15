@@ -155,3 +155,13 @@ Difficulty: Easy
 Note:
 
 - judge whether the residual is in the dictionary
+
+## [4Sum II](https://leetcode.cn/problems/4sum-ii/)
+
+Date: 0314
+Category: Hash Table
+Difficulty: Medium
+Note:
+
+- create a dictionary to stroe the sum from the first two list
+- iterate the last two list, check the sum
