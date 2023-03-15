@@ -165,3 +165,12 @@ Note:
 
 - create a dictionary to stroe the sum from the first two list
 - iterate the last two list, check the sum
+
+## [Ransom Note](https://leetcode.cn/problems/ransom-note/)
+
+Date: 0315
+Category: Hash Table
+Difficulty: Easy
+Note:
+
+- search ransomNote in magazine
