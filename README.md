@@ -174,3 +174,14 @@ Difficulty: Easy
 Note:
 
 - search ransomNote in magazine
+
+## [3Sum](https://leetcode.cn/problems/ransom-note/)
+
+Date: 0316
+Category: Hash Table
+Difficulty: Medium
+Note:
+
+- if nums[i] > 0: break, not false
+- append is list, not three elements
+- if cur == 0, how to avoid duplicate
