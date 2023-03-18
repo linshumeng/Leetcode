@@ -185,3 +185,12 @@ Note:
 - if nums[i] > 0: break, not false
 - append is list, not three elements
 - if cur == 0, how to avoid duplicate
+
+## [4Sum](https://leetcode.cn/problems/4sum/)
+
+Date: 0317
+Category: Hash Table
+Difficulty: Medium
+Note:
+
+- two for loop
