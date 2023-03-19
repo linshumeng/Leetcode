@@ -193,4 +193,22 @@ Category: Hash Table
 Difficulty: Medium
 Note:
 
-- two for loop
+- two for-loops
+
+## [Reverse String](https://leetcode.cn/problems/reverse-string/)
+
+Date: 0319
+Category: String
+Difficulty: Easy
+Note:
+
+- two points from head and tail
+
+## [Reverse String II](https://leetcode.cn/problems/reverse-string-ii/)
+
+Date: 0319
+Category: String
+Difficulty: Easy
+Note:
+
+- declare a new string
