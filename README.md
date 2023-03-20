@@ -212,3 +212,14 @@ Difficulty: Easy
 Note:
 
 - declare a new string
+
+## [ti-huan-kong-ge](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/)
+
+Date: 0320
+Category: String
+Difficulty: Easy
+Note:
+
+- use list to represent a string
+- extend that list
+- how to replace space
