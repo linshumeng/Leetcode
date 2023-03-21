@@ -223,3 +223,14 @@ Note:
 - use list to represent a string
 - extend that list
 - how to replace space
+
+## [Reverse Words in a String](https://leetcode.cn/problems/reverse-words-in-a-string/)
+
+Date: 0321
+Category: String
+Difficulty: Medium
+Note:
+
+- split the string
+- convert to a list
+- iterate word and swap
