@@ -243,3 +243,12 @@ Difficulty: Easy
 Note:
 
 - merge two parts
+
+## [Find the Index of the First Occurrence in a String](https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+
+Date: 0322
+Category: String
+Difficulty: Medium
+Note:
+
+- a method similar to BF
