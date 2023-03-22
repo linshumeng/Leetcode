@@ -234,3 +234,12 @@ Note:
 - split the string
 - convert to a list
 - iterate word and swap
+
+## [zuo-xuan-zhuan-zi-fu-chuan](https://leetcode.cn/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)
+
+Date: 0322
+Category: String
+Difficulty: Easy
+Note:
+
+- merge two parts
