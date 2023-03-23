@@ -252,3 +252,12 @@ Difficulty: Medium
 Note:
 
 - a method similar to BF
+
+## [Repeated Substring Pattern](https://leetcode.cn/problems/repeated-substring-pattern/)
+
+Date: 0323
+Category: String
+Difficulty: Easy
+Note:
+
+- how can we get the old string
