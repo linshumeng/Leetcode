@@ -261,3 +261,12 @@ Difficulty: Easy
 Note:
 
 - how can we get the old string
+
+## [Implement Queue using Stacks](https://leetcode.cn/problems/implement-queue-using-stacks/)
+
+Date: 0331
+Category: Strack
+Difficulty: Easy
+Note:
+
+- Reuse pop in peek
