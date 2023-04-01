@@ -265,8 +265,17 @@ Note:
 ## [Implement Queue using Stacks](https://leetcode.cn/problems/implement-queue-using-stacks/)
 
 Date: 0331
-Category: Strack
+Category: Stack
 Difficulty: Easy
 Note:
 
 - Reuse pop in peek
+
+## [Implement Stack using Queues](https://leetcode.cn/problems/implement-stack-using-queues/)
+
+Date: 0401
+Category: Stack
+Difficulty: Easy
+Note:
+
+- Use one deque
