@@ -279,3 +279,12 @@ Difficulty: Easy
 Note:
 
 - Use one deque
+
+## [Valid Parentheses](https://leetcode.cn/problems/valid-parentheses/)
+
+Date: 0402
+Category: Stack
+Difficulty: Easy
+Note:
+
+-
