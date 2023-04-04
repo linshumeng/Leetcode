@@ -287,4 +287,13 @@ Category: Stack
 Difficulty: Easy
 Note:
 
--
+- the way to return false
+
+## [Remove All Adjacent Duplicates In String](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/)
+
+Date: 0403
+Category: Stack
+Difficulty: Easy
+Note:
+
+- write append in else condition
