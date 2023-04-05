@@ -297,3 +297,21 @@ Difficulty: Easy
 Note:
 
 - write append in else condition
+
+## [Evaluate Reverse Polish Notation](https://leetcode.cn/problems/evaluate-reverse-polish-notation/)
+
+Date: 0404
+Category: Stack
+Difficulty: Medium
+Note:
+
+- how to use eval
+
+## [Sliding Window Maximum](https://leetcode.cn/problems/sliding-window-maximum/)
+
+Date: 0405
+Category: Stack
+Difficulty: Hard
+Note:
+
+- how to use eval
