@@ -314,4 +314,13 @@ Category: Stack
 Difficulty: Hard
 Note:
 
-- how to use eval
+- create a new data structure
+
+## [Top K Frequent Elements](https://leetcode.cn/problems/top-k-frequent-elements/)
+
+Date: 0407
+Category: Stack
+Difficulty: Medium
+Note:
+
+- how to sort a dictionary
