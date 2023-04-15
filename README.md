@@ -324,3 +324,30 @@ Difficulty: Medium
 Note:
 
 - how to sort a dictionary
+
+## [Binary Tree Inorder Traversal](https://leetcode.cn/problems/binary-tree-inorder-traversal/)
+
+Date: 0415
+Category: Binary Tree
+Difficulty: Easy
+Note:
+
+- write a helper function
+
+## [Binary Tree Postorder Traversal](https://leetcode.cn/problems/binary-tree-postorder-traversal/)
+
+Date: 0415
+Category: Binary Tree
+Difficulty: Easy
+Note:
+
+- write a helper function
+
+## [Binary Tree Preorder Traversal](https://leetcode.cn/problems/binary-tree-preorder-traversal/)
+
+Date: 0415
+Category: Binary Tree
+Difficulty: Easy
+Note:
+
+- write a helper function
