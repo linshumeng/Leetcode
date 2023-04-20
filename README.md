@@ -5,8 +5,11 @@ To record daily progress
 ## [Binary Search](https://leetcode.cn/problems/binary-search/)
 
 Date: 0220
+
 Category: Array
+
 Difficulty: Easy
+
 Note:
 
 - while condition
@@ -15,8 +18,11 @@ Note:
 ## [Remove Element](https://leetcode.cn/problems/remove-element/)
 
 Date: 0222
+
 Category: Array
+
 Difficulty: Easy
+
 Note:
 
 - use fast pointer to iterate all the list
@@ -25,8 +31,11 @@ Note:
 ## [Squares of a Sorted Array](https://leetcode.cn/problems/squares-of-a-sorted-array/)
 
 Date: 0223
+
 Category: Array
+
 Difficulty: Easy
+
 Note:
 
 - reverse order iterate the list
@@ -34,8 +43,11 @@ Note:
 ## [Minimum Size Subarray Sum](https://leetcode.cn/problems/minimum-size-subarray-sum/)
 
 Date: 0224
+
 Category: Array
+
 Difficulty: Medium
+
 Note:
 
 - use index variable as a pointer
@@ -43,8 +55,11 @@ Note:
 ##[Spiral Matrix II](https://leetcode.cn/problems/spiral-matrix-ii/)
 
 Date: 0226
+
 Category: Array
+
 Difficulty: Medium
+
 Note:
 
 - divide into loops
@@ -53,8 +68,11 @@ Note:
 ## [Remove Linked List Elements](https://leetcode.cn/problems/remove-linked-list-elements/)
 
 Date: 0227
+
 Category: Linked List
+
 Difficulty: Easy
+
 Note:
 
 - dummy head
@@ -62,8 +80,11 @@ Note:
 ## [Design Linked List](https://leetcode.cn/problems/design-linked-list/)
 
 Date: 0301
+
 Category: Linked List
+
 Difficulty: Medium
+
 Note:
 
 - a class for node
@@ -73,8 +94,11 @@ Note:
 ## [Reverse Linked List](https://leetcode.cn/problems/reverse-linked-list/)
 
 Date: 0302
+
 Category: Linked List
+
 Difficulty: Easy
+
 Note:
 
 - store the next first and then process
@@ -82,8 +106,11 @@ Note:
 ## [Swap Nodes in Pairs](https://leetcode.cn/problems/swap-nodes-in-pairs/)
 
 Date: 0303
+
 Category: Linked List
+
 Difficulty: Medium
+
 Note:
 
 - [猿来绘（逻辑清晰，简单易懂）- 24. 两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs/solution/yuan-lai-hui-luo-ji-qing-xi-jian-dan-yi-8t93h/)
@@ -91,8 +118,11 @@ Note:
 ## [Remove Nth Node From End of List](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/)
 
 Date: 0304
+
 Category: Linked List
+
 Difficulty: Medium
+
 Note:
 
 - bf: get the toal length of the array, and use a for loop which stops at the exact position
@@ -101,8 +131,11 @@ Note:
 ## [Intersection of Two Linked Lists LCCI](https://leetcode.cn/problems/intersection-of-two-linked-lists-lcci/)
 
 Date: 0306
+
 Category: Linked List
+
 Difficulty: Easy
+
 Note:
 
 - align at the end of the lists
@@ -111,8 +144,11 @@ Note:
 ## [Linked List Cycle II](https://leetcode.cn/problems/linked-list-cycle-ii/)
 
 Date: 0307
+
 Category: Linked List
+
 Difficulty: Medium
+
 Note:
 
 - two pointers
@@ -122,8 +158,11 @@ Note:
 ## [Valid Anagram](https://leetcode.cn/problems/valid-anagram/)
 
 Date: 0308
+
 Category: Hash Table
+
 Difficulty: Easy
+
 Note:
 
 - store in different dictionaries
@@ -131,8 +170,11 @@ Note:
 ## [Intersection of Two Arrays](https://leetcode.cn/problems/intersection-of-two-arrays/)
 
 Date: 0309
+
 Category: Hash Table
+
 Difficulty: Easy
+
 Note:
 
 - return a list
@@ -140,8 +182,11 @@ Note:
 ## [Happy Number](https://leetcode.cn/problems/happy-number/)
 
 Date: 0310
+
 Category: Hash Table
+
 Difficulty: Easy
+
 Note:
 
 - define a function to calculate sum
@@ -150,8 +195,11 @@ Note:
 ## [Two Sum](https://leetcode.cn/problems/two-sum/)
 
 Date: 0313
+
 Category: Hash Table
+
 Difficulty: Easy
+
 Note:
 
 - judge whether the residual is in the dictionary
@@ -159,27 +207,42 @@ Note:
 ## [4Sum II](https://leetcode.cn/problems/4sum-ii/)
 
 Date: 0314
+
 Category: Hash Table
+
 Difficulty: Medium
+
 Note:
 
 - create a dictionary to stroe the sum from the first two list
 - iterate the last two list, check the sum
 
-## [Ransom Note](https://leetcode.cn/problems/ransom-note/)
+## [Ransom
+
+Note](https://leetcode.cn/problems/ransom-
+Note/)
 
 Date: 0315
+
 Category: Hash Table
+
 Difficulty: Easy
+
 Note:
 
-- search ransomNote in magazine
+- search ransom
+  Note in magazine
 
-## [3Sum](https://leetcode.cn/problems/ransom-note/)
+## [3Sum](https://leetcode.cn/problems/ransom-
+
+Note/)
 
 Date: 0316
+
 Category: Hash Table
+
 Difficulty: Medium
+
 Note:
 
 - if nums[i] > 0: break, not false
@@ -189,8 +252,11 @@ Note:
 ## [4Sum](https://leetcode.cn/problems/4sum/)
 
 Date: 0317
+
 Category: Hash Table
+
 Difficulty: Medium
+
 Note:
 
 - two for-loops
@@ -198,8 +264,11 @@ Note:
 ## [Reverse String](https://leetcode.cn/problems/reverse-string/)
 
 Date: 0319
+
 Category: String
+
 Difficulty: Easy
+
 Note:
 
 - two points from head and tail
@@ -207,8 +276,11 @@ Note:
 ## [Reverse String II](https://leetcode.cn/problems/reverse-string-ii/)
 
 Date: 0319
+
 Category: String
+
 Difficulty: Easy
+
 Note:
 
 - declare a new string
@@ -216,8 +288,11 @@ Note:
 ## [ti-huan-kong-ge](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/)
 
 Date: 0320
+
 Category: String
+
 Difficulty: Easy
+
 Note:
 
 - use list to represent a string
@@ -227,8 +302,11 @@ Note:
 ## [Reverse Words in a String](https://leetcode.cn/problems/reverse-words-in-a-string/)
 
 Date: 0321
+
 Category: String
+
 Difficulty: Medium
+
 Note:
 
 - split the string
@@ -238,8 +316,11 @@ Note:
 ## [zuo-xuan-zhuan-zi-fu-chuan](https://leetcode.cn/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)
 
 Date: 0322
+
 Category: String
+
 Difficulty: Easy
+
 Note:
 
 - merge two parts
@@ -247,8 +328,11 @@ Note:
 ## [Find the Index of the First Occurrence in a String](https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string/)
 
 Date: 0322
+
 Category: String
+
 Difficulty: Medium
+
 Note:
 
 - a method similar to BF
@@ -256,8 +340,11 @@ Note:
 ## [Repeated Substring Pattern](https://leetcode.cn/problems/repeated-substring-pattern/)
 
 Date: 0323
+
 Category: String
+
 Difficulty: Easy
+
 Note:
 
 - how can we get the old string
@@ -265,8 +352,11 @@ Note:
 ## [Implement Queue using Stacks](https://leetcode.cn/problems/implement-queue-using-stacks/)
 
 Date: 0331
+
 Category: Stack
+
 Difficulty: Easy
+
 Note:
 
 - Reuse pop in peek
@@ -274,8 +364,11 @@ Note:
 ## [Implement Stack using Queues](https://leetcode.cn/problems/implement-stack-using-queues/)
 
 Date: 0401
+
 Category: Stack
+
 Difficulty: Easy
+
 Note:
 
 - Use one deque
@@ -283,8 +376,11 @@ Note:
 ## [Valid Parentheses](https://leetcode.cn/problems/valid-parentheses/)
 
 Date: 0402
+
 Category: Stack
+
 Difficulty: Easy
+
 Note:
 
 - the way to return false
@@ -292,8 +388,11 @@ Note:
 ## [Remove All Adjacent Duplicates In String](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/)
 
 Date: 0403
+
 Category: Stack
+
 Difficulty: Easy
+
 Note:
 
 - write append in else condition
@@ -301,8 +400,11 @@ Note:
 ## [Evaluate Reverse Polish Notation](https://leetcode.cn/problems/evaluate-reverse-polish-notation/)
 
 Date: 0404
+
 Category: Stack
+
 Difficulty: Medium
+
 Note:
 
 - how to use eval
@@ -310,8 +412,11 @@ Note:
 ## [Sliding Window Maximum](https://leetcode.cn/problems/sliding-window-maximum/)
 
 Date: 0405
+
 Category: Stack
+
 Difficulty: Hard
+
 Note:
 
 - create a new data structure
@@ -319,8 +424,11 @@ Note:
 ## [Top K Frequent Elements](https://leetcode.cn/problems/top-k-frequent-elements/)
 
 Date: 0407
+
 Category: Stack
+
 Difficulty: Medium
+
 Note:
 
 - how to sort a dictionary
@@ -328,8 +436,11 @@ Note:
 ## [Binary Tree Inorder Traversal](https://leetcode.cn/problems/binary-tree-inorder-traversal/)
 
 Date: 0415
+
 Category: Binary Tree
+
 Difficulty: Easy
+
 Note:
 
 - write a helper function
@@ -337,8 +448,11 @@ Note:
 ## [Binary Tree Postorder Traversal](https://leetcode.cn/problems/binary-tree-postorder-traversal/)
 
 Date: 0415
+
 Category: Binary Tree
+
 Difficulty: Easy
+
 Note:
 
 - write a helper function
@@ -346,8 +460,144 @@ Note:
 ## [Binary Tree Preorder Traversal](https://leetcode.cn/problems/binary-tree-preorder-traversal/)
 
 Date: 0415
+
 Category: Binary Tree
+
 Difficulty: Easy
+
 Note:
 
 - write a helper function
+
+## [Binary Tree Level Order Traversal](https://leetcode.cn/problems/binary-tree-level-order-traversal/)
+
+Date: 0418
+
+Category: Binary Tree
+
+Difficulty: Medium
+
+Note:
+
+- use deque
+
+## [Binary Tree Level Order Traversal II](https://leetcode.cn/problems/binary-tree-level-order-traversal-ii/)
+
+Date: 0419
+
+Category: Binary Tree
+
+Difficulty: Medium
+
+Note:
+
+- use deque
+- reverse
+
+## [Binary Tree Right Side View](https://leetcode.cn/problems/binary-tree-right-side-view/)
+
+Date: 0419
+
+Category: Binary Tree
+
+Difficulty: Medium
+
+Note:
+
+- keep only the last element in each level
+
+## [Binary Tree Right Side View](https://leetcode.cn/problems/binary-tree-right-side-view/)
+
+Date: 0419
+
+Category: Binary Tree
+
+Difficulty: Medium
+
+Note:
+
+- keep only the last element in each level
+
+## [Average of Levels in Binary Tree](https://leetcode.cn/problems/average-of-levels-in-binary-tree/)
+
+Date: 0419
+
+Category: Binary Tree
+
+Difficulty: Easy
+
+Note:
+
+- calculate the average by saving sum and count
+
+## [N-ary Tree Level Order Traversal](https://leetcode.cn/problems/n-ary-tree-level-order-traversal/)
+
+Date: 0419
+
+Category: Binary Tree
+
+Difficulty: Medium
+
+Note:
+
+- extend the deque
+
+## [Find Largest Value in Each Tree Row](https://leetcode.cn/problems/find-largest-value-in-each-tree-row/)
+
+Date: 0419
+
+Category: Binary Tree
+
+Difficulty: Medium
+
+Note:
+
+- calculate the max
+
+## [Populating Next Right Pointers in Each Node](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node/)
+
+Date: 0419
+
+Category: Binary Tree
+
+Difficulty: Medium
+
+Note:
+
+- compute the position of the last node
+
+## [Populating Next Right Pointers in Each Node II](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node-ii/)
+
+Date: 0419
+
+Category: Binary Tree
+
+Difficulty: Medium
+
+Note:
+
+- compute the position of the last node
+
+## [Maximum Depth of Binary Tree](https://leetcode.cn/problems/maximum-depth-of-binary-tree/)
+
+Date: 0419
+
+Category: Binary Tree
+
+Difficulty: Medium
+
+Note:
+
+- count the level
+
+## [Minimum Depth of Binary Tree](https://leetcode.cn/problems/minimum-depth-of-binary-tree/)
+
+Date: 0419
+
+Category: Binary Tree
+
+Difficulty: Easy
+
+Note:
+
+- no left and right means the min depth
