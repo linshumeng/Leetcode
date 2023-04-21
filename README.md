@@ -601,3 +601,15 @@ Difficulty: Easy
 Note:
 
 - no left and right means the min depth
+
+## [Symmetric Tree](https://leetcode.cn/problems/symmetric-tree/)
+
+Date: 0421
+
+Category: Binary Tree
+
+Difficulty: Easy
+
+Note:
+
+- use recursion
