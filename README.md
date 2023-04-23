@@ -613,3 +613,39 @@ Difficulty: Easy
 Note:
 
 - use recursion
+
+## [Count Complete Tree Nodes](https://leetcode.cn/problems/count-complete-tree-nodes/)
+
+Date: 0422
+
+Category: Binary Tree
+
+Difficulty: Medium
+
+Note:
+
+- count the nodes
+
+## [Balanced Binary Tree](https://leetcode.cn/problems/balanced-binary-tree/)
+
+Date: 0422
+
+Category: Binary Tree
+
+Difficulty: Easy
+
+Note:
+
+- count the depth of the given node
+
+## [Binary Tree Paths](https://leetcode.cn/problems/binary-tree-paths/)
+
+Date: 0422
+
+Category: Binary Tree
+
+Difficulty: Easy
+
+Note:
+
+- two deques
