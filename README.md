@@ -649,3 +649,27 @@ Difficulty: Easy
 Note:
 
 - two deques
+
+## [Sum of Left Leaves](https://leetcode.cn/problems/sum-of-left-leaves/)
+
+Date: 0423
+
+Category: Binary Tree
+
+Difficulty: Easy
+
+Note:
+
+- how to check a node is the left leaf
+
+## [Find Bottom Left Tree Value](https://leetcode.cn/problems/find-bottom-left-tree-value/)
+
+Date: 0423
+
+Category: Binary Tree
+
+Difficulty: Easy
+
+Note:
+
+- update the val again and again
