@@ -673,3 +673,88 @@ Difficulty: Easy
 Note:
 
 - update the val again and again
+
+## [Path Sum](https://leetcode.cn/problems/path-sum/)
+
+Date: 0424
+
+Category: Binary Tree
+
+Difficulty: Easy
+
+Note:
+
+- two deque, one save node, one save result
+
+## [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.cn/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
+
+Date: 0424
+
+Category: Binary Tree
+
+Difficulty: Medium
+
+Note:
+
+- how to split those two lists
+
+## [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+
+Date: 0424
+
+Category: Binary Tree
+
+Difficulty: Medium
+
+Note:
+
+- how to split those two lists
+
+## [Maximum Binary Tree](https://leetcode.cn/problems/maximum-binary-tree/)
+
+Date: 0424
+
+Category: Binary Tree
+
+Difficulty: Medium
+
+Note:
+
+- how to split the nums
+
+## [Merge Two Binary Trees](https://leetcode.cn/problems/merge-two-binary-trees/)
+
+Date: 0424
+
+Category: Binary Tree
+
+Difficulty: Easy
+
+Note:
+
+- recusively build the tree
+
+## [Search in a Binary Search Tree](https://leetcode.cn/problems/search-in-a-binary-search-tree/)
+
+Date: 0424
+
+Category: Binary Tree
+
+Difficulty: Easy
+
+Note:
+
+- if not root
+
+## [Validate Binary Search Tree](https://leetcode.cn/problems/validate-binary-search-tree/)
+
+Date: 0425
+
+Category: Binary Tree
+
+Difficulty: Easy
+
+Note:
+
+- compare all the nodes
+- sort the inorder traversal
