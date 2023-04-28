@@ -758,3 +758,65 @@ Note:
 
 - compare all the nodes
 - sort the inorder traversal
+
+## [Minimum Absolute Difference in BST](https://leetcode.cn/problems/minimum-absolute-difference-in-bst/)
+
+Date: 0426
+
+Category: Binary Tree
+
+Difficulty: Easy
+
+Note:
+
+- inorder traversal the BST
+
+## [Find Mode in Binary Search Tree](https://leetcode.cn/problems/find-mode-in-binary-search-tree/submissions/)
+
+Date: 0426
+
+Category: Binary Tree
+
+Difficulty: Easy
+
+Note:
+
+- inorder traversal the BST
+- create a dict and list
+- output all the nodes even though their value is the same
+
+## [Lowest Common Ancestor of a Binary Tree](https://leetcode.cn/problems/find-mode-in-binary-search-tree/submissions/)
+
+Date: 0426
+
+Category: Binary Tree
+
+Difficulty: Medium
+
+Note:
+
+- two ways to become ancestor: p and q appear in children; node itself is p or q
+
+## [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+
+Date: 0426
+
+Category: Binary Tree
+
+Difficulty: Medium
+
+Note:
+
+- assume p < q
+
+## [Insert into a Binary Search Tree](https://leetcode.cn/problems/insert-into-a-binary-search-tree/)
+
+Date: 0426
+
+Category: Binary Tree
+
+Difficulty: Medium
+
+Note:
+
+- three conditions
