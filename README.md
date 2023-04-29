@@ -745,6 +745,7 @@ Difficulty: Easy
 Note:
 
 - if not root
+- BST: left <= a, right > a
 
 ## [Validate Binary Search Tree](https://leetcode.cn/problems/validate-binary-search-tree/)
 
@@ -820,3 +821,35 @@ Difficulty: Medium
 Note:
 
 - three conditions
+
+## [Delete Node in a BST](https://leetcode.cn/problems/delete-node-in-a-bst/)
+
+Date: 0427
+
+Category: Binary Tree
+
+Difficulty: Medium
+
+Note:
+
+- if root.val > < or = key
+- if root.val == key
+  - not root.left
+  - not root.right
+  - find the most left of the right child, name p
+  - put root.left to p.left(p.left must be empty at this time)
+  - root.right replace root(delete)
+
+## [Trim a Binary Search Tree](https://leetcode.cn/problems/trim-a-binary-search-tree/)
+
+Date: 0427
+
+Category: Binary Tree
+
+Difficulty: Medium
+
+Note:
+
+- L =< root <= R: handle root.left and root.right
+- root < L: handle root.right
+- root > R: handle root.left
