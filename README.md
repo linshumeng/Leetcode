@@ -853,3 +853,27 @@ Note:
 - L =< root <= R: handle root.left and root.right
 - root < L: handle root.right
 - root > R: handle root.left
+
+## [Convert Sorted Array to Binary Search Tree](https://leetcode.cn/problems/convert-sorted-array-to-binary-search-tree/)
+
+Date: 0429
+
+Category: Binary Tree
+
+Difficulty: Medium
+
+Note:
+
+- find mid and create left and right node
+
+## [Convert BST to Greater Tree](https://leetcode.cn/problems/convert-bst-to-greater-tree/)
+
+Date: 0429
+
+Category: Binary Tree
+
+Difficulty: Medium
+
+Note:
+
+- reverse inorder traversal
