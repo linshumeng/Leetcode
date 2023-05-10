@@ -877,3 +877,53 @@ Difficulty: Medium
 Note:
 
 - reverse inorder traversal
+
+## [Combinations](https://leetcode.cn/problems/combinations/)
+
+Date: 0430
+
+Category: BackTracking
+
+Difficulty: Medium
+
+Note:
+
+- how to trim
+- res.append(path[:])
+
+## [Combination Sum III](https://leetcode.cn/problems/combination-sum-iii/)
+
+Date: 0503
+
+Category: BackTracking
+
+Difficulty: Medium
+
+Note:
+
+- if condition
+- res.append(path[:])
+
+## [Letter Combinations of a Phone Number](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/)
+
+Date: 0509
+
+Category: BackTracking
+
+Difficulty: Medium
+
+Note:
+
+- letter map
+
+## [Combination Sum](https://leetcode.cn/problems/combination-sum/)
+
+Date: 0510
+
+Category: BackTracking
+
+Difficulty: Medium
+
+Note:
+
+- candidates can be used for multiple times
